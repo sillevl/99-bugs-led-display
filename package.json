@@ -1,0 +1,28 @@
+{
+  "name": "99-bugs-led-display",
+  "version": "1.0.0",
+  "description": "Driver for the 99bugs led display",
+  "main": "./lib/led-display.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sillevl/99-bugs-led-display.git"
+  },
+  "keywords": [
+    "99bugs",
+    "led",
+    "display",
+    "led",
+    "matrix",
+    "driver",
+    "node"
+  ],
+  "author": "Sille Van Landschoot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sillevl/99-bugs-led-display/issues"
+  },
+  "homepage": "https://github.com/sillevl/99-bugs-led-display#readme"
+}
