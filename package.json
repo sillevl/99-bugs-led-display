@@ -1,5 +1,5 @@
 {
-  "name": "99-bugs-led-display",
+  "name": "99bugs-led-display",
   "version": "1.0.0",
   "description": "Driver for the 99bugs led display",
   "main": "./lib/led-display.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sillevl/99-bugs-led-display.git"
+    "url": "git+https://github.com/sillevl/99bugs-led-display.git"
   },
   "keywords": [
     "99bugs",
