@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/sillevl/99-bugs-led-display#readme",
   "optionalDependencies": {
-    "spi": "^0.2.0",
+    "spi": "^0.2.0"
   }
 }
