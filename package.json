@@ -1,6 +1,6 @@
 {
   "name": "99bugs-led-display",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Driver for the 99bugs led display",
   "main": "./lib/led-display.js",
   "scripts": {
