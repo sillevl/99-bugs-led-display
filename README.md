@@ -1,5 +1,4 @@
 # 99-bugs-led-display
-===
 
 [![Build Status](https://travis-ci.org/sillevl/99bugs-led-display.svg?branch=master)](https://travis-ci.org/sillevl/99bugs-led-display)
 
@@ -8,7 +7,7 @@
 
 __99-bugs-led-display__ is a nodejs driver for the 99bugs led display.
 
-## installation
+## Installation
 
 ```
 $ npm install 99-bugs-led-display --save
